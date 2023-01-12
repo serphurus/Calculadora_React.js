@@ -1,0 +1,21 @@
+.App {
+  max-width: 400px;
+  background-position: center;
+  background-size: cover; 
+  justify-content: center;
+  align-items: center;
+}
+
+.caul-container {
+  min-width: 50%;
+  max-width: 300px;
+  background-color: aqua;
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+.coluwn-1 {
+  height: 2.5rem;
+  width: 3rem;
+  color: black;
+}
